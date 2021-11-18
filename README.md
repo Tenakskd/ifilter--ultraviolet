@@ -1,5 +1,5 @@
-# isgc-alloy.plus.oauth2
-デザインをisgcにしたalloyプロキシ。ついでにoauth2認証を追加した。
+# isgc-alloy
+デザインをisgcにしたalloyプロキシ。ついでにoauth2認証を追加してくれ
 # つくりました
 crrosionは雑魚
 
