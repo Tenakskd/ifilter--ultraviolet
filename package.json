@@ -1,5 +1,5 @@
 {
-  "name": "alloy",
+  "name": "ultraviolet",
   "version": "2.5.0",
   "description": "A web proxy.",
   "main": "server.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
+    "url": "git+https://github.com/titaniumnetwork-dev/ultraviolet.git"
   },
   "keywords": [
     "proxy",
@@ -33,7 +33,7 @@
   "author": "Titanium Network",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
+    "url": "https://github.com/titaniumnetwork-dev/ultraviolet/issues"
   },
-  "homepage": "https://github.com/titaniumnetwork-dev/alloy#readme"
+  "homepage": "https://github.com/titaniumnetwork-dev/ultraviolet#readme"
 }
